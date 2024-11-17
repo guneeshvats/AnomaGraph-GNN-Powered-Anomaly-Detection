@@ -1,6 +1,6 @@
 # Graph Neural Networks for Anomaly Detection 
 
-This is the official implementation for the following paper:
+This is the implementation of the following research paper:
 
 [Rethinking Graph Neural Networks for Anomaly Detection](https://proceedings.mlr.press/v162/tang22b.html)  
 *Jianheng Tang, Jiajin Li, Ziqi Gao, Jia Li*  
